@@ -3,9 +3,9 @@
 Java Programming Lab Assignment 1
 Student Record Management System
 
-Submitted by: Aditya Shibu
-Roll No: 2401201047
-GitHub: https://github.com/Vic-41148
+Submitted by: Shakti singh
+Roll No: 2401201098
+GitHub: https://github.com/shakti9695
 Faculty: Dr. Manish Kumar
 ----------------------------------------------------------
 */
