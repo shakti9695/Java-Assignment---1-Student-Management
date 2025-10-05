@@ -5,9 +5,9 @@ Project Information
 - Course: Java Programming Lab
 - Faculty: Dr. Manish Kumar
 - Assignment: Lab Assignment 1 – Student Class Design & Basic Operations
-- Student Name: Aditya Shibu
-- Roll No: 2401201047
-- GitHub: https://github.com/Vic-41148
+- Student Name: Shakti Singh
+- Roll No: 2401201098
+- GitHub: https://github.com/shakti9695
 
 Problem Statement
 -----------------
