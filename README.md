@@ -98,4 +98,4 @@ Future Improvements
 - Add update/delete functionality
 - Store student records in a file/database
 
-Developed by Aditya Shibu (Roll No: 2401201047)
+Developed by Shakti Singh (Roll No: 2401201098)
